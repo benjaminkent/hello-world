@@ -7,3 +7,9 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+}
